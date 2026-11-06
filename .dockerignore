@@ -1,0 +1,6 @@
+.git
+.env
+deploy/certs/*
+README.md
+Dockerfile
+docker-compose*.yml
